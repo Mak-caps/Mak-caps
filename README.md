@@ -16,6 +16,7 @@ Data Analyst with expertise in transforming complex datasets into actionable bus
                   ### Socials
                   
                   
+                <img src="path/to/your/image.jpg" alt="Description of the image" width="150" height="150">
                 <p align="left">
                       <a href="https://www.github.com/Mak-caps" target="_blank" rel="noreferrer">
                     <picture>
